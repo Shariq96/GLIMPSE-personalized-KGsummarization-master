@@ -1,1 +1,0 @@
-{"QuestionId":"q99","Parse":{"TopicEntityName":"Microsoft Visual Studio ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Visual_Studio>","InferentialChain":["company","product","named","visual","studio","drive","service"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

@@ -1,1 +1,0 @@
-{"QuestionId":"q3390","Parse":{"TopicEntityName":"Lao Plaza Hotel ","TopicEntityMid":"<http://dbpedia.org/resource/Lao_Plaza_Hotel>","InferentialChain":["lao","plaza","hotel","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

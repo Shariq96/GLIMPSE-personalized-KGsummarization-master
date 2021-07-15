@@ -1,1 +1,0 @@
-{"QuestionId":"q776","Parse":{"TopicEntityName":"Jeevan Mrityu ","TopicEntityMid":"<http://dbpedia.org/resource/Jeevan_Mrityu>","InferentialChain":["city","distributor","jeevan","mrityu","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}
