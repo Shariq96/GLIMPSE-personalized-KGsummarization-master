@@ -1,1 +1,0 @@
-{"QuestionId":"q102","Parse":{"TopicEntityName":"David Johnston ","TopicEntityMid":"<http://dbpedia.org/resource/David_Johnston>","InferentialChain":["country","s","leader","david","johnston"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Canada>","EntityName":"Canada"}]}}

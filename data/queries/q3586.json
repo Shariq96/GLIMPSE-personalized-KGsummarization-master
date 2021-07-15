@@ -1,1 +1,0 @@
-{"QuestionId":"q3586","Parse":{"TopicEntityName":"Frank Miller  comics  ","TopicEntityMid":"<http://dbpedia.org/resource/Frank_Miller_(comics)>","InferentialChain":["the","characters","created","frank","miller"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Batman>","EntityName":"Batman"}]}}

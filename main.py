@@ -94,7 +94,7 @@ def parse_args():
                              'For Freebase only. Default is 3.')
     parser.add_argument('--n-mids-per-topic', type=positive_int, default=3,
                         help='Number of unique MIDs per topic. For Freebase only. Default is 20.')
-    parser.add_argument('--n_users', type=positive_int, default=2,
+    parser.add_argument('--n_users', type=positive_int, default=1,
                         help='Number of users to simulate. Default is 5.')
     parser.add_argument('--test-size', type=float_in_zero_one, default=0.5,
                         help='Percentage of queries per user to hold out for testing, '
@@ -107,7 +107,7 @@ def parse_args():
                              'than topic-specific ones. Default is 0.1.')
     parser.add_argument('--shuffle', action='store_true',
                         help='Set this flag to true to shuffle all generated logs. Default False.')
-    parser.add_argument('--method', nargs='+', default=['glimpse-2'],
+    parser.add_argument('--method', nargs='+', default=['glimpse'],
                         choices=list(METHODS.keys()),
                         help='Summarization methods to call. Default is [glimpse].')
 

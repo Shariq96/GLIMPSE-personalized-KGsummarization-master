@@ -1,1 +1,0 @@
-{"QuestionId":"q3639","Parse":{"TopicEntityName":"Dowra ","TopicEntityMid":"<http://dbpedia.org/resource/Dowra>","InferentialChain":["rive","mouth","located","limerick","location","is","dowra"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Shannon>","EntityName":"River Shannon"}]}}

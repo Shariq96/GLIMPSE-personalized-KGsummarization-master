@@ -107,8 +107,10 @@ def GLIMPSE(user, KG, K, query_log, epsilon=1e-3, power=1):
             heap.update(S, sample_size)
 
     S.fill(KG.triples(), K)
-    f = open("c:/Users/Sharik/Desktop/GLIMPSE-personalized-KGsummarization-master/GLIMPSE-personalized-KGsummarization-master/output/"+str(user)+".ttl","w",encoding="utf8", errors="ignore" )
-    f.write(str(S.triples()))
-    f.close()
+    myList = list(S.triples())
+    with open("c:/Users/Sharik/Desktop/GLIMPSE-personalized-KGsummarization-master/GLIMPSE-personalized-KGsummarization-master/output/"+str(user)+".ttl","w",encoding="utf8", errors="ignore" ) as f:
+       for item in myList:
+           myString= str(item) + "."
+           f.write("%s\n" % myString.replace(")","").replace("(","").replace(",","").replace("'","").replace('"<',"<").replace('>"',">"))
     return S
 

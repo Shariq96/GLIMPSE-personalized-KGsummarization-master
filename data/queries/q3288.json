@@ -1,1 +1,0 @@
-{"QuestionId":"q3288","Parse":{"TopicEntityName":"Ann Lewis ","TopicEntityMid":"<http://dbpedia.org/resource/Ann_Lewis>","InferentialChain":["president","loretta","ucelli","ann","lewis","hold","office"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bill_Clinton>","EntityName":"Bill Clinton"}]}}

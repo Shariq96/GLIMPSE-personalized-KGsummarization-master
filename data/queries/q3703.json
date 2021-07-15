@@ -1,1 +1,0 @@
-{"QuestionId":"q3703","Parse":{"TopicEntityName":"Grand National ","TopicEntityMid":"<http://dbpedia.org/resource/Grand_National>","InferentialChain":["colored","race","horses","won","grand","national"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_Kingdom>","EntityName":"United Kingdom"}]}}
