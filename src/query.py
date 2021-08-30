@@ -40,6 +40,7 @@ def check_question(question):
     :param question: dict question in WebQSP format
     :return: whether question is formatted correctly
     """
+
     return 'QuestionId' in question and 'Parse' in question and \
            'TopicEntityMid' in question['Parse'] and \
            'InferentialChain' in question['Parse'] and \
