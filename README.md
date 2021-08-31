@@ -1,5 +1,7 @@
 # Question Answering system using GLIMPSE framework
 
+Here in this repositry you can find the code of knowledge graph summarization using GLIMPSE framework [1] and all the other things needed such as a java code for converting different format of queries into WEBQUESTIONSP format. To configure and run the project all details are listed below.
+
 ## Requirements
 
 - Python 3.4 or above (For Knowldge Graph Summarization)
