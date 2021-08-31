@@ -29,7 +29,7 @@ Summarization is done over [DBPedia](https://www.dbpedia.org/) Knowldge Graph. D
 - To generate the summary, run this command in the base directory <br>
     ``python3 main.py``
 - Incase you want to change code behaviour, you can edit arguments of ``parse_args`` method in ``main.py`` class. 
-- Summaries are generated in the ``out`` directory of the Project as``out0``,``out1``,and ``out2`` according to user. 
+- Summaries are generated in the ``out`` directory of the Project as ``out0``,``out1``,and ``out2`` according to user. 
 
 ### Running Question Answering System
 - These generated summaries along with DBPedia DataSets are then used by QA system(i.e. TeBaQA)
